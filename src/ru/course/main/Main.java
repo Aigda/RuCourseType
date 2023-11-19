@@ -1,4 +1,6 @@
+package ru.course.main;
 import ru.course.geometry.*;
+
 import ru.course.math.*;
 
 public class Main {
